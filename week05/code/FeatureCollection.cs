@@ -13,3 +13,5 @@ public class FeatureProperties
     public string Place { get; set; }
     public double Mag { get; set; }
 }
+
+//**//
